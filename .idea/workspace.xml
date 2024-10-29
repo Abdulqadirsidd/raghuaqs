@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c63c797-1881-4fbb-a38f-9ebff9d6ebc3" name="Changes" comment="office working and comitting and pushing">
+    <list default="true" id="9c63c797-1881-4fbb-a38f-9ebff9d6ebc3" name="Changes" comment="office working and comitting and pushing&#10;confused">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Abdulqadirsidd &lt;abdulqadirsidd2011@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -67,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730224599296</updated>
-      <workItem from="1730224600954" duration="1025000" />
+      <workItem from="1730224600954" duration="1440000" />
     </task>
     <task id="LOCAL-00001" summary="office working and comitting and pushing">
       <option name="closed" value="true" />
@@ -93,14 +98,40 @@
       <option name="project" value="LOCAL" />
       <updated>1730225640046</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="office working and comitting and pushing">
+      <option name="closed" value="true" />
+      <created>1730225655101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730225655101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="office working and comitting and pushing">
+      <option name="closed" value="true" />
+      <created>1730225812790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730225812790</updated>
+    </task>
+    <task id="LOCAL-00006" summary="office working and comitting and pushing&#10;confused">
+      <option name="closed" value="true" />
+      <created>1730226059850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730226059850</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="office working and comitting and pushing&#10;&#10;confused on two boxs to edit" />
     <MESSAGE value="office working and comitting and pushing" />
-    <option name="LAST_COMMIT_MESSAGE" value="office working and comitting and pushing" />
+    <MESSAGE value="office working and comitting and pushing&#10;confused" />
+    <option name="LAST_COMMIT_MESSAGE" value="office working and comitting and pushing&#10;confused" />
   </component>
 </project>
