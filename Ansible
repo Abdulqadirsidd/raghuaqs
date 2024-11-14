@@ -1,0 +1,7 @@
+#dnf install nginx
+#systemctl start nginx
+
+#ansible -i 172.31.86.157, all -b -e ansible_user=ec2-user -e ansible_password=DevOps321 -m ansible.builtin.dnf -a name=nginx,state=present
+
+
+#ansible -i 172.31.86.157, all -b -e ansible_user=ec2-user -e ansible_password=DevOps321 -m ansible.builtin.systemd_service -a name=nginx -a state=started
