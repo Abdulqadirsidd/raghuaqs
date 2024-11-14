@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c63c797-1881-4fbb-a38f-9ebff9d6ebc3" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+    <list default="true" id="9c63c797-1881-4fbb-a38f-9ebff9d6ebc3" name="Changes" comment="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -47,7 +47,6 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Shell Script.01 first.sh.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Public/devops-online study&quot;,
@@ -73,21 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="01 first.sh" type="ShConfigurationType">
-      <option name="SCRIPT_TEXT" value="" />
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/01 first.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="powershell.exe" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <option name="EXECUTE_SCRIPT_FILE" value="true" />
-      <envs />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -109,9 +93,7 @@
       <workItem from="1730257527345" duration="43000" />
       <workItem from="1730747159699" duration="13000" />
       <workItem from="1730748659028" duration="66000" />
-      <workItem from="1730748750674" duration="1010000" />
-      <workItem from="1730755997246" duration="3199000" />
-      <workItem from="1730926183692" duration="358000" />
+      <workItem from="1730748750674" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="office working and comitting and pushing">
       <option name="closed" value="true" />
@@ -185,63 +167,7 @@
       <option name="project" value="LOCAL" />
       <updated>1730748929214</updated>
     </task>
-    <task id="LOCAL-00010" summary="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find">
-      <option name="closed" value="true" />
-      <created>1730749703883</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1730749703883</updated>
-    </task>
-    <task id="LOCAL-00011" summary="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find">
-      <option name="closed" value="true" />
-      <created>1730749720656</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1730749720656</updated>
-    </task>
-    <task id="LOCAL-00012" summary="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find">
-      <option name="closed" value="true" />
-      <created>1730756381406</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1730756381406</updated>
-    </task>
-    <task id="LOCAL-00013" summary="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find">
-      <option name="closed" value="true" />
-      <created>1730756434295</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1730756434295</updated>
-    </task>
-    <task id="LOCAL-00014" summary="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find">
-      <option name="closed" value="true" />
-      <created>1730757625625</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1730757625625</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1730757752228</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1730757752228</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1730757942324</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1730757942324</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +178,6 @@
     <MESSAGE value="office working and comitting and pushing" />
     <MESSAGE value="office working and comitting and pushing&#10;confused" />
     <MESSAGE value="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="office working and comitting and pushing&#10;confused&#10;for the confirmation&#10;ls&#10;ls -ltr&#10;find" />
   </component>
 </project>
