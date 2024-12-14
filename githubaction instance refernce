@@ -1,0 +1,14 @@
+Description=GitHub Actions Runner (abdulqadir2021-learn-github-actions.ip-172-31   -85-23)
+After=network.target
+
+[Service]
+ExecStart=/actions-runner/runsvc.sh
+User=ec2-user
+WorkingDirectory=/actions-runner
+KillMode=process
+KillSignal=SIGTERM
+TimeoutStopSec=5min
+
+[Install]
+WantedBy=multi-user.target
+
